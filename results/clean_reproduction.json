@@ -1,0 +1,14 @@
+{
+  "check_mode_note": "The 48 retained main position graphs were bound and checked from packets rather than re-enumerated; auxiliary finite games were re-enumerated.",
+  "clean_output_directory_was_new": true,
+  "command": "python3 reproduce.py --output reproduced-check --check",
+  "entry_binding_replacement_cases_rejected": 2,
+  "network_used": false,
+  "private_pair_m1_negative_control_cases": 3,
+  "producer_games_enumerated_this_check_run": 2039,
+  "retained_main_packet_bindings_checked": 48,
+  "retained_semantic_exact_game_count": 2084,
+  "runtime_record": "results/runtime_reproduction.json",
+  "scientific_files_equal": 59,
+  "status": "passed"
+}
